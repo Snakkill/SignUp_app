@@ -4,14 +4,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Results">
+    tools:context=".SecondActivity">
 
     <TextView
         android:id="@+id/Results"
-        android:layout_width="203dp"
-        android:layout_height="103dp"
-        android:layout_marginStart="79dp"
-        android:layout_marginTop="106dp"
+        android:layout_width="329dp"
+        android:layout_height="237dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="104dp"
+        android:textSize="40dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>

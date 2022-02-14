@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SignUpApp">
         <activity
-            android:name=".Results"
+            android:name=".SecondActivity"
             android:exported="true" />
         <activity
             android:name=".MainActivity"
